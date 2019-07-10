@@ -11,7 +11,7 @@ Go to *Site Administration > Apearance > Additional HTML* and paste this and sav
 
 # Background
 
-Go to *Site administration > Appearance > Themes > Boost* and upload this picture: ![dhbwbackground.jpg](./dhbwbackground.jpg) and save changes.
+Go to *Site administration > Appearance > Themes > Boost* and upload this picture: [dhbwbackground.jpg](./dhbwbackground.jpg) and save changes.
 
 # Primary Color
 
